@@ -20,7 +20,7 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/randomthem.css') }}" rel="stylesheet">
-
+    <link href="{{ asset('fontawesome/css/all.min.css') }}" rel="stylesheet">
     <livewire:styles/>
     
 </head>

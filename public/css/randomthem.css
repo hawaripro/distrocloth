@@ -1,5 +1,6 @@
 body {
     font-family: 'Nerko One', cursive;
+    background-color: white;
 }
 .banner img {
     width: 100%;
@@ -11,6 +12,22 @@ body {
 .pilih-liga .card {
     border-radius: 15px;
 }
-.best-products .card {
+.products .card {
     border-radius: 15px;
+}
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+.products .active {
+    font-weight: bold;
+    color: black;
+}
+.btn-dark {
+    border-radius: 10px;
+}
+.gambar-product {
+    background-color: #F1F1F1;
+    border-width: 0;
+    border-radius: 20px;
 }
